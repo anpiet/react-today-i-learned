@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-today-i-learned/static/css/main.9ba28611.css",
+    "main.js": "/react-today-i-learned/static/js/main.4905efee.js",
+    "index.html": "/react-today-i-learned/index.html",
+    "main.9ba28611.css.map": "/react-today-i-learned/static/css/main.9ba28611.css.map",
+    "main.4905efee.js.map": "/react-today-i-learned/static/js/main.4905efee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba28611.css",
+    "static/js/main.4905efee.js"
+  ]
+}
