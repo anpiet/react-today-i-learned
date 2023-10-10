@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-today-i-learned/static/css/main.9ba28611.css",
-    "main.js": "/react-today-i-learned/static/js/main.4905efee.js",
+    "main.js": "/react-today-i-learned/static/js/main.36f0d1d7.js",
     "index.html": "/react-today-i-learned/index.html",
     "main.9ba28611.css.map": "/react-today-i-learned/static/css/main.9ba28611.css.map",
-    "main.4905efee.js.map": "/react-today-i-learned/static/js/main.4905efee.js.map"
+    "main.36f0d1d7.js.map": "/react-today-i-learned/static/js/main.36f0d1d7.js.map"
   },
   "entrypoints": [
     "static/css/main.9ba28611.css",
-    "static/js/main.4905efee.js"
+    "static/js/main.36f0d1d7.js"
   ]
 }
